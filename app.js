@@ -31,3 +31,5 @@ function verificarChute() {
 function gerarNumeroAleatorio() {
     return parseInt(Math.random() * 10 + 1); 
 }
+
+// teste
